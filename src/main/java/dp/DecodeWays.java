@@ -1,3 +1,5 @@
+package main.java.dp;
+
 public class DecodeWays {
 
     public static void main(String[] args) {
